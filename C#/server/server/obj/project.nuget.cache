@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "tCBZOqnEQNSjh7q1YdZ6dFjfJGnBu+vWSD0sHzunjj4mz3nqb0kaAkQhL1faS0/2Kj7FU0QdOT1BBTh70pYqsw==",
+  "success": true,
+  "projectFilePath": "D:\\程式夾\\C#\\C#\\server\\server\\server.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\tim\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

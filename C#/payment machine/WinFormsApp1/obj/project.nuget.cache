@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "No37+JQLuZ+6CSxl09M6KqyHk/gkXpUgBqwLfMFwk8jYW2TXIaZP2QbDpIi9D/vkYByg7NRPPv46DGdcaMPiLA==",
+  "success": true,
+  "projectFilePath": "D:\\程式夾\\C#\\WinFormsApp1\\WinFormsApp1\\WinFormsApp1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\tim\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\6.0.0\\microsoft.extensions.dependencyinjection.6.0.0.nupkg.sha512",
+    "C:\\Users\\tim\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\tim\\.nuget\\packages\\newtonsoft.json\\11.0.1\\newtonsoft.json.11.0.1.nupkg.sha512",
+    "C:\\Users\\tim\\.nuget\\packages\\open.serialization\\3.0.0\\open.serialization.3.0.0.nupkg.sha512",
+    "C:\\Users\\tim\\.nuget\\packages\\open.serialization.json\\3.0.0\\open.serialization.json.3.0.0.nupkg.sha512",
+    "C:\\Users\\tim\\.nuget\\packages\\open.serialization.json.newtonsoft\\3.0.0\\open.serialization.json.newtonsoft.3.0.0.nupkg.sha512",
+    "C:\\Users\\tim\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
